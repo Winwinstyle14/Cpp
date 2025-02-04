@@ -48,9 +48,9 @@ int main()
 		std::cout << "\n";
 	}
 	//3. Tam giác nhị phân đan xen
-	for ()
+	for (int i = 0 ; i <= n ; i++)
 	{
-		for ()
+		for (int j = 0 ; j <= n ; j++)
 		{
 
 		}

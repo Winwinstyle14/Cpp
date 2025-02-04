@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Language_Code\\cpp\\Thuchanh2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB73D0E-3DA0-416F-9096-194D50EF15A6}|Thuc Hanh 5.9.4\\Thuc Hanh 5.9.4.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.4\\ThucHanh5.13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCB73D0E-3DA0-416F-9096-194D50EF15A6}|Thuc Hanh 5.9.4\\Thuc Hanh 5.9.4.vcxproj|solutionrelative:Thuc Hanh 5.9.4\\ThucHanh5.13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D938177-9536-421E-9718-8E084FBFF1AD}|Thuc Hanh 5.9.3\\Thuc Hanh 5.9.3.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.3\\ThucHanh5.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D938177-9536-421E-9718-8E084FBFF1AD}|Thuc Hanh 5.9.3\\Thuc Hanh 5.9.3.vcxproj|solutionrelative:Thuc Hanh 5.9.3\\ThucHanh5.12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7AEF79-7A03-4473-93D2-96E2A19936F4}|Thuc Hanh 5.9.2\\Thuc Hanh 5.9.2.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.2\\ThucHanh5.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D7AEF79-7A03-4473-93D2-96E2A19936F4}|Thuc Hanh 5.9.2\\Thuc Hanh 5.9.2.vcxproj|solutionrelative:Thuc Hanh 5.9.2\\ThucHanh5.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E142ECAC-4C8D-4E2A-AF93-882BE89C3ABC}|Thuc Hanh5.10.0\\Thuc Hanh5.10.0.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh5.10.0\\ThucHanh5.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E142ECAC-4C8D-4E2A-AF93-882BE89C3ABC}|Thuc Hanh5.10.0\\Thuc Hanh5.10.0.vcxproj|solutionrelative:Thuc Hanh5.10.0\\ThucHanh5.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD887DF6-5FDE-4833-8E03-A68D028C95DB}|Thuc Hanh 5.9\\Thuc Hanh 5.9.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9\\ThucHanh5.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD887DF6-5FDE-4833-8E03-A68D028C95DB}|Thuc Hanh 5.9\\Thuc Hanh 5.9.vcxproj|solutionrelative:Thuc Hanh 5.9\\ThucHanh5.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EE29B4-6B1E-45AA-86D8-096DD489544A}|Thuc Hanh 5.8\\Thuc Hanh 5.8.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.8\\ThucHanh5.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3EE29B4-6B1E-45AA-86D8-096DD489544A}|Thuc Hanh 5.8\\Thuc Hanh 5.8.vcxproj|solutionrelative:Thuc Hanh 5.8\\ThucHanh5.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F698F1E2-AEC5-48B8-8C30-20804CB62786}|Thuc Hanh 5.7\\Thuc Hanh 5.7.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.7\\ThucHanh5.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F698F1E2-AEC5-48B8-8C30-20804CB62786}|Thuc Hanh 5.7\\Thuc Hanh 5.7.vcxproj|solutionrelative:Thuc Hanh 5.7\\ThucHanh5.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D3160D-C753-4689-86CF-0B0F8C7B96F1}|Thuc Hanh 5.6\\Thuc Hanh 5.6.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.6\\ThucHanh5.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7D3160D-C753-4689-86CF-0B0F8C7B96F1}|Thuc Hanh 5.6\\Thuc Hanh 5.6.vcxproj|solutionrelative:Thuc Hanh 5.6\\ThucHanh5.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863FBE58-AAC9-4C38-9C09-682A4D629A3E}|Thuc Hanh 5.5\\Thuc Hanh 5.5.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.5\\ThucHanh5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863FBE58-AAC9-4C38-9C09-682A4D629A3E}|Thuc Hanh 5.5\\Thuc Hanh 5.5.vcxproj|solutionrelative:Thuc Hanh 5.5\\ThucHanh5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662662D9-FB27-4A58-97FC-D8F05AD0F0CA}|Thuc Hanh 5.4\\Thuc Hanh 5.4.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.4\\ThucHanh5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{662662D9-FB27-4A58-97FC-D8F05AD0F0CA}|Thuc Hanh 5.4\\Thuc Hanh 5.4.vcxproj|solutionrelative:Thuc Hanh 5.4\\ThucHanh5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846EC07F-99B5-4605-8C33-22C37E1392C2}|Thuc Hanh 5.3\\Thuc Hanh 5.3.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.3\\ThucHanh5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{846EC07F-99B5-4605-8C33-22C37E1392C2}|Thuc Hanh 5.3\\Thuc Hanh 5.3.vcxproj|solutionrelative:Thuc Hanh 5.3\\ThucHanh5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB179B5A-0C52-492F-89E9-B13E01C20C1D}|Thuc Hanh 5.2\\Thuc Hanh 5.2.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.2\\ThucHanh5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB179B5A-0C52-492F-89E9-B13E01C20C1D}|Thuc Hanh 5.2\\Thuc Hanh 5.2.vcxproj|solutionrelative:Thuc Hanh 5.2\\ThucHanh5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035092B-C9E4-4F71-A727-6061B85F7E19}|Thuc Hanh 1\\Thuc Hanh 1.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 1\\ThucHanh1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0035092B-C9E4-4F71-A727-6061B85F7E19}|Thuc Hanh 1\\Thuc Hanh 1.vcxproj|solutionrelative:Thuc Hanh 1\\ThucHanh1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C9DC72-06B2-4AC8-A21D-08D259202DA1}|Thuc Hanh 6.1\\Thuc Hanh 6.1.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 6.1\\ThucHanh6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14C9DC72-06B2-4AC8-A21D-08D259202DA1}|Thuc Hanh 6.1\\Thuc Hanh 6.1.vcxproj|solutionrelative:Thuc Hanh 6.1\\ThucHanh6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE266CF-942B-4963-822E-0484C41BCCEF}|Thuc Hanh 4.12\\Thuc Hanh 4.12.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.12\\ThucHanh4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DE266CF-942B-4963-822E-0484C41BCCEF}|Thuc Hanh 4.12\\Thuc Hanh 4.12.vcxproj|solutionrelative:Thuc Hanh 4.12\\ThucHanh4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91626F13-01F0-4968-BB19-2DD16C73F07D}|Thuc Hanh 4.9.2\\Thuc Hanh 4.9.2.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.2\\ThucHanh4.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91626F13-01F0-4968-BB19-2DD16C73F07D}|Thuc Hanh 4.9.2\\Thuc Hanh 4.9.2.vcxproj|solutionrelative:Thuc Hanh 4.9.2\\ThucHanh4.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D954D3A3-8BB6-48CD-9723-AFC4D44E8A87}|Thuc Hanh 4.9.1\\Thuc Hanh 4.9.1.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.1\\ThucHanh4.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D954D3A3-8BB6-48CD-9723-AFC4D44E8A87}|Thuc Hanh 4.9.1\\Thuc Hanh 4.9.1.vcxproj|solutionrelative:Thuc Hanh 4.9.1\\ThucHanh4.10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E96BDD7-5C49-45E8-8DC8-125842FDB300}|Thuc Hanh 4.9\\Thuc Hanh 4.9.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9\\ThucHanh4.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E96BDD7-5C49-45E8-8DC8-125842FDB300}|Thuc Hanh 4.9\\Thuc Hanh 4.9.vcxproj|solutionrelative:Thuc Hanh 4.9\\ThucHanh4.9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCF0FD4-73B3-4BD9-BFC3-C17A2354CA71}|Thuc Hanh 4.1\\Thuc Hanh 4.1.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.1\\ThucHanh4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFCF0FD4-73B3-4BD9-BFC3-C17A2354CA71}|Thuc Hanh 4.1\\Thuc Hanh 4.1.vcxproj|solutionrelative:Thuc Hanh 4.1\\ThucHanh4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB279B12-19AC-43FA-898F-B6596298F639}|Thuc Hanh 4.8\\Thuc Hanh 4.8.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.8\\ThucHanh4.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB279B12-19AC-43FA-898F-B6596298F639}|Thuc Hanh 4.8\\Thuc Hanh 4.8.vcxproj|solutionrelative:Thuc Hanh 4.8\\ThucHanh4.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A845546-D71D-496C-886F-2D3B761AE46D}|Thuc Hanh 4.7\\Thuc Hanh 4.7.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.7\\ThucHanh4.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A845546-D71D-496C-886F-2D3B761AE46D}|Thuc Hanh 4.7\\Thuc Hanh 4.7.vcxproj|solutionrelative:Thuc Hanh 4.7\\ThucHanh4.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3618E1A-9A2C-4E93-8E11-5ADB86C894D5}|Thuc Hanh 4.6\\Thuc Hanh 4.6.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.6\\ThucHanh4.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3618E1A-9A2C-4E93-8E11-5ADB86C894D5}|Thuc Hanh 4.6\\Thuc Hanh 4.6.vcxproj|solutionrelative:Thuc Hanh 4.6\\ThucHanh4.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698D516B-6897-449C-93DB-A81DF26DA5E4}|Thuc hanh 4.5\\Thuc hanh 4.5.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc hanh 4.5\\ThucHanh4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{698D516B-6897-449C-93DB-A81DF26DA5E4}|Thuc hanh 4.5\\Thuc hanh 4.5.vcxproj|solutionrelative:Thuc hanh 4.5\\ThucHanh4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194E7BD-4572-4DA9-980B-DDE79959ECD8}|Thuc Hanh 4.4\\Thuc Hanh 4.4.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.4\\Thuchanh4.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0194E7BD-4572-4DA9-980B-DDE79959ECD8}|Thuc Hanh 4.4\\Thuc Hanh 4.4.vcxproj|solutionrelative:Thuc Hanh 4.4\\Thuchanh4.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2E2E89-2D74-469F-A7F1-DFBA5811BC3C}|Thuc Hanh 4.3\\Thuc Hanh 4.3.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.3\\ThucHanh4.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D2E2E89-2D74-469F-A7F1-DFBA5811BC3C}|Thuc Hanh 4.3\\Thuc Hanh 4.3.vcxproj|solutionrelative:Thuc Hanh 4.3\\ThucHanh4.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD64260-5D30-4B4C-AC1D-8659688D610E}|Thuc Hanh 4.2\\Thuc Hanh 4.2.vcxproj|D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.2\\ThucHanh4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFD64260-5D30-4B4C-AC1D-8659688D610E}|Thuc Hanh 4.2\\Thuc Hanh 4.2.vcxproj|solutionrelative:Thuc Hanh 4.2\\ThucHanh4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThucHanh5.8.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.8\\ThucHanh5.8.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.8\\ThucHanh5.8.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.8\\ThucHanh5.8.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.8\\ThucHanh5.8.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T05:58:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThucHanh5.13.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.4\\ThucHanh5.13.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.9.4\\ThucHanh5.13.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.4\\ThucHanh5.13.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.9.4\\ThucHanh5.13.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T08:56:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThucHanh5.6.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.6\\ThucHanh5.6.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.6\\ThucHanh5.6.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.6\\ThucHanh5.6.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.6\\ThucHanh5.6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T09:37:10.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThucHanh5.9.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9\\ThucHanh5.9.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.9\\ThucHanh5.9.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9\\ThucHanh5.9.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.9\\ThucHanh5.9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T14:09:14.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThucHanh5.3.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.3\\ThucHanh5.3.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.3\\ThucHanh5.3.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.3\\ThucHanh5.3.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.3\\ThucHanh5.3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T08:57:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThucHanh5.7.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.7\\ThucHanh5.7.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.7\\ThucHanh5.7.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.7\\ThucHanh5.7.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.7\\ThucHanh5.7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T05:43:50.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThucHanh5.12.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.3\\ThucHanh5.12.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.9.3\\ThucHanh5.12.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.3\\ThucHanh5.12.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.9.3\\ThucHanh5.12.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T08:30:36.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThucHanh5.4.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.4\\ThucHanh5.4.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.4\\ThucHanh5.4.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.4\\ThucHanh5.4.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.4\\ThucHanh5.4.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T06:28:10.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThucHanh5.5.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.5\\ThucHanh5.5.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.5\\ThucHanh5.5.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.5\\ThucHanh5.5.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.5\\ThucHanh5.5.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T07:55:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThucHanh5.11.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.2\\ThucHanh5.11.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.9.2\\ThucHanh5.11.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.9.2\\ThucHanh5.11.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.9.2\\ThucHanh5.11.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:53:27.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThucHanh5.10.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh5.10.0\\ThucHanh5.10.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh5.10.0\\ThucHanh5.10.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh5.10.0\\ThucHanh5.10.cpp",
+              "RelativeToolTip": "Thuc Hanh5.10.0\\ThucHanh5.10.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T14:55:37.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThucHanh6.1.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 6.1\\ThucHanh6.1.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 6.1\\ThucHanh6.1.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 6.1\\ThucHanh6.1.cpp*",
+              "RelativeToolTip": "Thuc Hanh 6.1\\ThucHanh6.1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:23:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThucHanh5.2.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.2\\ThucHanh5.2.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 5.2\\ThucHanh5.2.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 5.2\\ThucHanh5.2.cpp",
+              "RelativeToolTip": "Thuc Hanh 5.2\\ThucHanh5.2.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAewFsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T17:07:40.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThucHanh1.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 1\\ThucHanh1.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 1\\ThucHanh1.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 1\\ThucHanh1.cpp",
+              "RelativeToolTip": "Thuc Hanh 1\\ThucHanh1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T14:10:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThucHanh4.2.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.12\\ThucHanh4.2.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.12\\ThucHanh4.2.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.12\\ThucHanh4.2.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.12\\ThucHanh4.2.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T08:51:28.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThucHanh4.11.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.2\\ThucHanh4.11.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.9.2\\ThucHanh4.11.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.2\\ThucHanh4.11.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.9.2\\ThucHanh4.11.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T03:18:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThucHanh4.10.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.1\\ThucHanh4.10.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.9.1\\ThucHanh4.10.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9.1\\ThucHanh4.10.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.9.1\\ThucHanh4.10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T16:13:38.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThucHanh4.9.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9\\ThucHanh4.9.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.9\\ThucHanh4.9.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.9\\ThucHanh4.9.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.9\\ThucHanh4.9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T15:27:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThucHanh4.8.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.8\\ThucHanh4.8.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.8\\ThucHanh4.8.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.8\\ThucHanh4.8.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.8\\ThucHanh4.8.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T17:26:31.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThucHanh4.7.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.7\\ThucHanh4.7.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.7\\ThucHanh4.7.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.7\\ThucHanh4.7.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.7\\ThucHanh4.7.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T17:39:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThucHanh4.6.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.6\\ThucHanh4.6.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.6\\ThucHanh4.6.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.6\\ThucHanh4.6.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.6\\ThucHanh4.6.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T16:19:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThucHanh4.5.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc hanh 4.5\\ThucHanh4.5.cpp",
+              "RelativeDocumentMoniker": "Thuc hanh 4.5\\ThucHanh4.5.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc hanh 4.5\\ThucHanh4.5.cpp",
+              "RelativeToolTip": "Thuc hanh 4.5\\ThucHanh4.5.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T10:19:03.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Thuchanh4.4.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.4\\Thuchanh4.4.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.4\\Thuchanh4.4.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.4\\Thuchanh4.4.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.4\\Thuchanh4.4.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T04:58:27.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThucHanh4.3.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.3\\ThucHanh4.3.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.3\\ThucHanh4.3.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.3\\ThucHanh4.3.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.3\\ThucHanh4.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T04:52:48.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThucHanh4.2.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.2\\ThucHanh4.2.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.2\\ThucHanh4.2.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.2\\ThucHanh4.2.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.2\\ThucHanh4.2.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T03:43:16.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThucHanh4.1.cpp",
+              "DocumentMoniker": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.1\\ThucHanh4.1.cpp",
+              "RelativeDocumentMoniker": "Thuc Hanh 4.1\\ThucHanh4.1.cpp",
+              "ToolTip": "D:\\Language_Code\\cpp\\Thuchanh2\\Thuc Hanh 4.1\\ThucHanh4.1.cpp",
+              "RelativeToolTip": "Thuc Hanh 4.1\\ThucHanh4.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T16:08:17.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

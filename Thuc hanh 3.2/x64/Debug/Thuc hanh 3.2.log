@@ -1,0 +1,4 @@
+﻿  ThucHanh3.2.cpp
+D:\Language_Code\cpp\Thuchanh2\Thuc hanh 3.2\ThucHanh3.2.cpp(11,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Language_Code\cpp\Thuchanh2\Thuc hanh 3.2\ThucHanh3.2.cpp(17,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Thuc hanh 3.2.vcxproj -> D:\Language_Code\cpp\Thuchanh2\x64\Debug\Thuc hanh 3.2.exe

@@ -1,0 +1,3 @@
+﻿  ThucHanh4.5.cpp
+D:\Language_Code\cpp\Thuchanh2\Thuc hanh 4.5\ThucHanh4.5.cpp(10,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Thuc hanh 4.5.vcxproj -> D:\Language_Code\cpp\Thuchanh2\x64\Debug\Thuc hanh 4.5.exe

@@ -1,0 +1,5 @@
+﻿  ThucHanh5.2.cpp
+D:\Language_Code\cpp\Thuchanh2\Thuc Hanh 5.2\ThucHanh5.2.cpp(54,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Language_Code\cpp\Thuchanh2\Thuc Hanh 5.2\ThucHanh5.2.cpp(64,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Language_Code\cpp\Thuchanh2\Thuc Hanh 5.2\ThucHanh5.2.cpp(84,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Thuc Hanh 5.2.vcxproj -> D:\Language_Code\cpp\Thuchanh2\x64\Debug\Thuc Hanh 5.2.exe
